@@ -12,3 +12,7 @@ RUN curl -Ls https://github.com/SlovakNationalGallery/elasticsearch-slovencina/a
 
 # grab extra synonym files and save them inside config/synonyms
 RUN curl -Ls http://wordnetcode.princeton.edu/3.0/WNprolog-3.0.tar.gz | tar xz -C config/synonyms --strip-components=1 prolog/wn_s.pl
+
+# TODO remove these
+ADD synonyms_cz.txt config/synonyms/synonyms_cz.txt
+ADD stopwords_cz.txt config/stop-words/stop-words-czech2.txt

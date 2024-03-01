@@ -1,0 +1,854 @@
+prosinec, Prosinec
+pondelek, pondelí
+USA, Spojené státy americké
+témer, skoro
+príkrý, strmý
+akceptovat, prijmout, prijímat
+dosahovat, dosáhnout, docílit
+vrchol, vrcholek
+cin, skutek
+jednat, cinit
+aktivita, cinnost
+skutecne, opravdu
+propagace, reklama, inzerát
+pridat, pridávat
+pripocíst, secítat, secíst, scítat
+prídavek, dodatek
+zkušený, obratný, zrucný, zbehlý
+sousední, další
+prídavné jméno, adjektivum
+pripouštet, pripustit, priznat, priznávat, uznat
+postihnout, ovlivnovat, zasáhnout, ovlivnit
+opet, znovu, zase
+stárí, vek
+kontrakt, smlouva, úmluva, dohoda
+vpredu, pred
+pomoc, asistence, výpomoc, podpora
+vzduch, ovzduší
+hloupý, pošetilý
+letadlo, letoun, aeroplán
+živý, žijící
+vše, všechno
+místo toho, namísto
+porád, vždy
+uprostred, mezi
+rozhnevaný, rozzlobený
+zvíre, živocich, stvorení, bytost, tvor
+ohlásit, oznámit, oznamovat
+proklamace, prohlášení, oznámení
+druhý, jiný, odlišný
+odpovídat, odpovedet, reagovat
+hala, vestibul, predsín, foyer
+nejaký, nekterý, jakýkoli, libovolný
+odev, oblecení, šaty
+prostor, plocha
+hádat se, prít se
+paže, ruka
+usporádání, organizace
+dorazit, prijet, prijít, pricestovat, priletet, dojet
+zeptat, ptát
+zaútocit, útocit, napadnout
+námaha, úsilí, pokus, snaha
+zlatý, zlatavý
+duležitý, významný
+autorizace, oprávnení, pravomoc, autorita, zmocnení
+disponibilní, použitelný, prístupný, dostupný
+vyhnout se, vyhýbat se
+bdelý, probuzený
+díte, miminko, nemluvne, kojenec
+záda, hrbet
+pytel, vak, taška
+skvelý, bájecný, senzacní
+brutální, krutý, barbarský
+nést, nosit
+zdolat, porazit
+krásný, hezký
+ponevadž, protože, nebot
+lužko, postel
+zacátek, pocátek
+pramen, zdroj, puvod
+jednat, chovat se
+existence, bytí
+zvon, zvonek
+drahoušek, milácek
+prospívat, prospet
+rovnež, také, též
+signalizovat, naznacovat, indikovat, oznacovat, ukazovat, naznacit, oznacit, ukázat
+zdokonalit, zušlechtit, zlepšovat, vylepšit, zlepšit
+nápoj, pití
+jízdní kolo, bicykl
+faktura, úcet
+narození, zrození
+kousat, kousnout, ukousnout
+trpký, horký
+schválení, souhlas
+únavný, nudný
+obe, oba
+krabice, bedna
+milenec, kluk
+druh, znacka, model, typ
+chléb, chleba
+rozbít, zlomit
+svetlý, jasný
+prinášet, prinést
+rozbitý, zlomený
+kartác, štetec, kartácek
+stavba, budova, dum
+podnikatelka, obchodnice
+koupit, nakoupit, nakupovat, zakoupit
+zákusek, kolác
+poctár, pocítac, kalkulátor
+telefonát, volání
+telefonovat, volat
+fotoaparát, foták
+plechovka, konzerva
+motorové vozidlo, automobil
+sacharid, uhlohydrát, cukr
+starat se, pecovat
+chytit, chytat, lapit
+prícina, duvod
+mobilní telefon, mobil
+centrum, stred, prostredek
+mistrovství, šampionát, prebor, titul
+promena, transformace, zmena, premena, zámena, výmena
+obvinit, obžalovat, vinit
+fakturovat, úctovat, naúctovat
+stížnost, obžaloba
+laciný, levný
+truhla, truhlice
+hlavní, podstatný
+volba, výber
+volit, zvolit, vybrat, vybírat
+kostel, chrám
+kino, biograf
+velkomesto, metropole
+požadavek, nárok
+rocník, trída
+trídit, klasifikovat, seradit, usporádat, roztrídit
+vycistit, ocistit
+jasný, zretelný
+jasne, zrejme
+zavírat, zavrít
+oblak, mrak
+obušek, kyj
+spolecnost, sdružení, spolek, klub, cech
+vedomosti, znalosti
+kotouc, role, svitek
+nachlazení, rýma
+chlad, zima
+zabarvení, barva
+komise, výbor
+bežný, obvyklý
+komunita, obec
+podnik, firma
+porovnat, porovnávat, srovnat, srovnávat
+porovnání, srovnání
+kompletní, dokonalý
+dokoncit, ukoncit, skoncit
+prvek, element
+situace, stav
+prípojka, konektor
+následek, dusledek, konsekvence, výsledek, úcinek, efekt
+budovat, stavet, konstruovat, zkonstruovat, vybudovat, postavit
+bojovat, rvát se, zápasit
+pokracovat, vytrvat
+smlouva, kontrakt
+kontrolovat, ovládat, rídit
+spor, kontroverze
+kucharka, kuchar
+uvarit, pripravit
+zvládnout, vyporádat se
+kopie, opis
+kopírovat, zkopírovat
+správný, korektní
+náklady, výdaje
+rada, koncil
+mít význam, být duležitý
+kurz, školení
+prasklina, šterbina, trhlina, puklina
+trestný cin, zlocin, trestná cinnost
+rozmackání, rozdrcení
+krik, výkrik, volání, pokrik
+brecet, plakat
+šálek, hrnecek, hrnek
+soucasný, obvyklý, bežný
+tok, proud, proudení
+záves, opona, záclona
+zakrivení, ohyb
+zákazník, klient, odberatel
+rezat, uríznout, ríznout
+tancit, tancovat
+informace, data
+úmrtí, smrt
+úmrtní, smrt
+rozhodovat, rozhodnout
+záver, rozhodnutí, úsudek, usnesení
+ornament, dekorace, výzdoba, ozdoba
+úroven, stupen, hladina
+delikátní, nežný, jemný
+krehký, lámavý
+demokracie, republika
+odbor, oddelení, sekce
+bezpecný, nerizikový
+popisovat, vylícit, popsat
+dychtit, toužit, chtít
+destrukce, znicení
+podrobnost, detail
+vyvíjet, vyvinout
+evoluce, vývoj
+slovník, lexikon
+jiný, odlišný, zvláštní
+težký, obtížný, nesnadný
+manažer, rídící pracovník, reditel, direktor, správce
+špinavý, znecištený, necistý
+disciplína, obor
+objev, objevení
+nemoc, onemocnení
+vyhodit, dát výpoved, propustit
+rozmanitý, ruznorodý, rozdílný, ruzný
+rozmanitost, pestrost, ruznost
+roztríštit, rozštepit, rozdelit
+segmentace, rozdelení
+doktor, lékar
+nadvláda, prevaha
+pochybnost, nejistota, pochyba
+zásuvka, šuplík
+vyschnout, uschnout, oschnout, osušit
+vysušit, usušit
+bydlište, príbytek, obydlí
+casný, raný
+lehký, jednoduchý
+sníst, jíst
+hospodárný, sporivý, šetrný, úsporný, ekonomický
+hospodárství, ekonomika
+vzdelávání, ucení, pedagogie, školství, pedagogika, vzdelání, výuka, vyucování
+volby, volba
+elevátor, výtah
+zahrnovat, obsahovat
+koncit, skoncit
+užívat, vychutnat, tešit se z
+vstupovat, vniknout, vstoupit, vkrocit, vejít
+obveselení, zábava
+sám, samotný
+nazvat, pojmenovat
+okolí, prostredí, životní prostredí
+rovný, stejný
+bývalý, minulý, predešlý
+odhadovat, odhadnout
+vyrovnaný, rovný
+prekrocit, prekonat
+výtecný, prvotrídní, bezvadný, výborný, skvelý, vynikající
+odejít, opustit
+objasnit, vysvetlit, vysvetlovat
+látka, tkanina, textil
+tvár, oblicej
+zanedbat, zanedbávat, selhat, zklamat
+imitovaný, falešný
+padat, padnout, spadnout, upadnout
+chybný, nesprávný
+chybný, mylný, nesprávný
+domácnost, rodina
+vzdálený, daleký
+farma, statek
+mastný, tucný
+bát se, obávat se
+péro, pírko, perí, pero
+pocitovat, pocítit
+vycítit, cítit, hmatat
+drobný, malý
+pole, lán
+naplnit, vyplnit
+nalézt, najít, nalézat
+plamen, ohen
+pevný, tuhý
+nejprve, predevším
+prichystat, pripravit
+daný, stanovený
+rovný, plochý
+létání, let
+obelstít, podvést, napálit, ošálit, oklamat
+podlaha, zem
+patro, podlaží, poschodí
+létat, letet
+prehyb, ohyb
+následující, další
+potravina, potrava, živina, pokrm, jídlo
+základna, podklad, báze
+zapomenout, zapomínat
+prominout, odpustit
+formulár, tiskopis
+podoba, tvar
+rámecek, rámec
+svobodný, volný
+osvobozovat, vysvobodit, osvobodit
+cetný, castý
+cerstvý, nový, sveží
+prítel, kamarád, prítelkyne, kamarádka
+predek, prední strana
+ovoce, plod
+celkový, úplný
+dýmat, kourit
+funkce, úcel
+pracovat, fungovat
+budoucí, príští
+všeobecný, obecný
+získat, dostat
+pocínat, zacínat, zahájit, zacít, pocít
+vstávat, vstát
+dívka, devce, holka, slecna
+dávat, dát
+sklenice, sklenicka, sklenka
+klíh, lep, lepidlo
+lepit, nalepit, prilepit
+lepkavý, lepivý
+poctivý, cestný
+dobrý, dobrá
+sklon, spád
+dedecek, deda
+veliký, velký
+seskupení, skupina
+vyrustat, narustat
+zbran, pistole
+chlup, vlas
+kladívko, kladivo
+topurko, držadlo
+politováníhodný, žalostný, nebohý, ubohý
+prihodit se, nastat
+štastný, veselý
+diskutovat, debatovat, hovorit
+nicemný, podlý, zlý
+nebezpecí, riziko
+vedoucí, šéf
+slyšet, uslyšet, naslouchat, poslouchat
+ahoj, nazdar, cau
+pomáhat, asistovat, napomáhat, pomoci
+pahorek, kopec
+rána, úder
+svine, prase, vepr
+díra, otvor
+domov, bydlište
+clovek, jedinec, osoba
+hácek, hák
+nemocnice, ošetrovna
+horký, teplý
+žár, horko, vysoká teplota
+nicméne, prestože
+poškodit, ublížit, poranit, zranit
+myšlenka, idea, predstava, nápad
+jestli, když, kdyby, jestliže, -li
+napodobit, napodobovat, imitovat
+bezprostredne, hned, okamžite
+obsahovat, zahrnovat
+pocátecní, úvodní
+výdelek, príjem
+nesprávný, chybný
+vzrustat, zvetšovat se, pribývat
+doopravdy, opravdu, vskutku
+industriální, prumyslový
+nepatrný, malický
+zranit, poranit
+vyšetrování, šetrení
+nástroj, instrument, prístroj
+inteligentní, rozumný
+mínit, zamýšlet
+internacionální, mezinárodní
+Internet, internet
+rozhovor, interview
+uvést, predstavit
+predstavovat, predstavit, uvádet, uvést
+vynalezení, vynález, výmysl
+samo, samo sebe
+kabát, bunda
+skvost, klenot, šperk, drahokam, drahý kámen
+úloha, práce, úkol
+pripojit, spojit
+žurnalista, novinár
+jízda, cesta
+skákat, skocit
+udržet, udržovat, zachovat
+podstata, esence, základ, jádro
+tlacítko, klávesa
+kopat, kopnout
+kopnutí, kop
+usmrtit, zabít, zabíjet
+druh, typ
+polibek, pusa, políbení
+kuchyne, kuchyn
+znát, vedet
+pevnina, souš, zem
+zemina, puda
+jazyk, rec
+velký, veliký, rozsáhlý, objemný
+poslední, minulý
+opoždený, zpoždený
+být v cele, vést
+vést, zavést
+vudce, vedoucí
+list, listí, listoví, lupen
+naucit se, ucit se
+kuže, usen
+nechat, zanechat
+legální, zákonný
+nechávat, nechat
+dovolit, povolit
+dietní, nízkokalorický
+limit, hranice, mez
+linie, cára
+pysk, ret
+kapalný, tekutý
+tekutina, kapalina
+naslouchat, poslouchat
+lokální, místní
+zamknout, zamykat
+dívat se, dívat, koukat
+hlídka, strážce
+ztratit, ztrácet
+hlasitý, hlucný
+štastný, mající štestí
+casopis, magazín
+odeslat, poslat, zaslat, posílat, zasílat, vyslat
+tvorit, vytváret, vytvorit
+samec, muž
+kluk, chlapec, hoch
+muž, chlap
+spravovat, rídit, vést
+management, rízení, vedení
+znacka, znak
+svatba, snatek
+ženatý, vdaná
+oženit se, provdat se, ženit se, vdát se
+masa, hmota
+odpovídat si, shodovat se
+zápalka, sirka
+materiální, hmotný
+materiál, hmota
+hmota, látka
+záležitost, vec
+jídlo, pokrm
+myslit, zamýšlet
+strední hodnota, prumer
+významný, duležitý
+zpusob, postup
+merit, zmerit
+lékarský, lécebný
+potkávat, potkat, setkávat se, setkat se, sejít se
+setkání, schuzka
+menstruace, mesícky
+citovat, uvádet, uvést
+jídelní lístek, menu
+pouze, jen
+podzemní dráha, metro
+vojsko, armáda
+milion, milión
+minout, netrefit
+zameškat, zmeškat, propást
+moderní, novodobý
+vlhkost, vláha
+okamžik, moment
+okamžik, chvíle, moment
+ráno, jitro, dopoledne
+pohorí, hora
+ústa, pusa
+pohybovat, pohnout
+hodne, mnoho
+muzikant, hudebník
+hreb, hrebík
+jméno, název
+nedaleký, blízký
+nevyhnutelný, potrebný, nezbytný, nutný
+potrebovat, vyžadovat, požadovat, žádat
+kravata, vázanka
+jehlice, jehla
+výtežek, profit, zisk
+novina, zprávy
+hezký, pekný, príjemný, milý
+nula, nic
+ted, nyní
+nyní, práve, ted
+ošetrovatelka, zdravotní sestra
+matice, matka
+zjevne, zrejme
+zamestnání, práce
+nabídnout, nabízet
+vune, zápach, aroma
+jednou, jedenkrát, kdysi
+polovice, polovicka, polovina, pulka
+otevrít, otvírat
+vystrelit, strílet
+obsluhovat, ovládat
+fungování, chod
+chirurgický zákrok, operace
+stanovisko, názor
+príležitost, šance
+opacný, protejší, protilehlý
+príkaz, rozkaz, povel
+narídit, prikázat, rozkazovat, rozkázat
+originální, puvodní
+náš, naše
+erupce, výbuch
+venku, mimo, vne
+trouba, pec
+vlastník, držitel, majitel
+balení, svazek, balík
+obraz, malba
+rovnobežný, paralelní, soubežný
+kus, díl, podíl, cást
+oddelení, divize, oddíl
+obzvlášte, obzvlášt, predevším, zejména, zvlášte, zvlášt, mimorádne, nezvykle
+cestující, pasažér
+uplynulý, minulý
+pauza, prestávka, prerušení
+platit, zaplatit
+jedinec, clovek, osoba
+osobnost, charakter
+fáza, stupen, fáze
+telesný, fyzický
+obraz, obrázek
+soucást, kousek, kus, díl
+trubka, roura, potrubí
+továrna, závod
+orat, zorat
+tecka, bod
+leštit, nablýskat, naleštit, vyleštit
+chudý, nemajetný
+verejnost, lid
+obyvatelstvo, populace
+poštovné, poštovní známka
+brambor, brambora
+silný, úcinný
+prach, prášek
+moc, síla
+praktikovat, provádet
+doslovne, presne
+spíše, radeji
+dárek, dar
+nynejší, prítomný, soucasný
+stisknout, stlacit
+predejít, zabránit, zamezit
+ohodnotit, ocenit
+procedura, pochod, postup, proces
+zpracovat, zpracovávat
+produkovat, vyrábet, vyrobit, vytváret, vytvorit, zhotovit
+profesionál, odborník
+majetek, vlastnictví
+navrhnout, navrhovat
+paradigma, prototyp, vzor
+publikovat, vydat
+tahat, táhnout, vytahovat
+cerpadlo, pumpa
+cerpat, pumpovat
+strkat, tlacit, strcit
+tlacítko, knoflík
+pokládat, umístit, položit
+otázka, dotaz
+nadzdvihnout, pozdvihnout, vyzvednout, pozvednout, zvyšovat, vztycit, zdvihat, zvedat
+tarif, sazba
+hodnotit, ohodnotit, známkovat
+dosahovat, dosáhnout
+císt, precíst
+opravdový, skutecný, pravý
+uvažovat, logicky myslet
+prijmout, obdržet, dostat
+cervený, rudý, šarlatový
+redukovat, zmenšit, omezit, snížit
+odrazit, odrážet, zrcadlit
+krajina, region, oblast
+relace, vztah
+zustatek, reziduum, zbytek
+vzpomenout, vzpomenout si
+odstranit, odstranovat, vyjmout
+nahlásit, ohlásit, oznámit
+reprezentovat, predstavovat, symbolizovat, zastupovat
+požadavek, žádost, prosba
+žádat, požadovat
+zkoumání, bádání, výzkum
+respektovat, uznávat, ctít
+prestávka, pauza
+odpocinek, oddech
+omezit, limitovat, omezovat
+vrácení se, návrat
+protiklad, opak
+nepoddajný, neohebný, pevný, tuhý
+stoupání, vzestup
+rival, souper, protivník, konkurent, sok
+silnice, cesta
+místnost, pokoj
+lano, provaz
+drsný, hrubý
+kruhový, kulatý
+prodej, odbyt
+osolit, solit
+chránit, spasit, ušetrit, zachránit, zachranovat
+usporit, šetrit
+dosah, rámec
+kryt, víko, obal
+rocní období, sezóna, sezona
+ochutit, okorenit, korenit
+vterina, sekunda
+z druhé ruky, použitý
+oddíl, oddelení, sekce, úsek
+považovat, pokládat za, videt
+prodávat, prodat
+samostatný, separátní, oddelený
+služebník, sluha
+obsluha, služba, servis
+soubor, sada, set, souprava
+šít, stehovat, sešít
+sdílet, mít spolecné
+díl, podíl, cást
+strevíc, bota, obuv
+obchod, krám
+jecet, vykriknout, kricet, rvát
+show, prehlídka, predstavení
+ukázat, demonstrovat, predvést, prezentovat
+nehlucný, tichý
+zpevák, pevec
+jednotlivý, samotný, jediný
+rozmer, velikost
+zrucnost, dovednost
+loupat, oloupat
+kuže, plet, pokožka
+malý, nepatrný, drobný
+praštit, uhodit, uderit
+páchnout, smrdet
+usmívat se, smát se, smát
+kour, dým
+líbat, políbit
+snežit, chumelit
+namydlit, mydlit
+sociální, spolecenský
+voják, vojín
+obcas, nekdy
+písen, písnicka
+zvuk, tón
+mluva, rec
+pružina, péro
+zrídlo, pramen, zdroj
+druhá mocnina, kvadrát
+mackat, smácknout, zmackat, rozmackat, rozmácknout
+zamestnanci, personál, štáb
+lodyha, stéblo, stonek
+kritérium, standard, merítko, norma, míra
+ríci, ríkat, povedet, povídat
+výpoved, tvrzení
+zustávat, zustat
+krást, odcizit, ukrást, zcizit
+hul, klacek, tyc
+prímý, rovný
+zvláštní, divný, neobvyklý
+konstrukce, stavba, struktura
+student, žák
+poddaný, podrízený
+námet, téma
+pozdeji, poté
+nahrazení, substituce, nahrazování, zámena
+takový, takové
+neocekávaný, nenadálý, náhlý
+zakusit, vytrpet, utrpet
+sladit, osladit
+soucet, suma
+nahradit, vymenit
+poskytovat, poskytnout, zásobovat, obstarat, dodávat, opatrit, vybavit, zásobit
+podpora, opora
+domnívat se, predpokládat
+jiste, urcite
+kapitulovat, vzdát se
+vydržet, vystacit
+rozumet, chápat
+systém, soustava
+stolek, stul
+ocas, ohon, chvost
+hovorit, mluvit, ríkat, promluvit
+ochutnávat, ochutnat, okusit
+zdanení, dan
+vyucovat, ucit
+instruktor, cvicitel, ucitel
+družstvo, tým, mužstvo
+tendence, trend
+otestovat, testovat, vyzkoušet
+dokazovat, prokázat, dokázat
+ten, ta, to
+pak, potom
+tam, tamhle
+proto, tedy
+tyto, tyhle
+tlustý, silný
+úzký, slabý
+predmet, vec
+myslet, premýšlet
+ten, ta, tenhle, tuto
+hrudník, hrud
+házet, hodit
+vrh, hod
+vstupenka, jízdenka, lístek
+období, doba
+titulek, nadpis
+spolecne, spolu
+záchod, WC, toaleta
+rajské jablícko, rajce
+zítrek, zítra
+trup, telo
+kontakt, dotyk, styk
+nakreslit, malovat
+kolej, kolejnice
+cvicit, školit, trénovat, vycvicit, vyškolit
+vzdelávání, výcvik
+nosit, nést
+doprava, preprava
+chodit, jet, pohybovat se, cestovat
+ošetrit, lécit
+chvení, tres
+úskok, trik, lest
+problém, potíž
+pravý, pravdivý
+pravdive, skutecne
+pravdomluvný, pravdivý
+zkoušet, zkusit
+obrátit, otocit
+ohyzdný, ošklivý, šeredný, škaredý
+chápat, rozumet, porozumet, pochopit
+úkol, projekt
+svaz, unie, sdružení
+odlišný, rozdílný, ruzný
+neženatý, svobodný
+prozradit, odkrýt, odhalit
+nahoru, vzhuru
+užití, upotrebení, užívání, využití
+aplikovat, použít, používat
+dovolená, prázdniny
+hodnota, cena
+moc, velmi, velice
+navštívit, navštevovat
+úmysl, vule
+vyckávat, pockat, cekat
+stena, zed
+hrejivý, teplý
+zahrát, ohrát
+umýt, vyprat, prát
+sledovat, pozorovat, dívat se
+nosit, mít na sobe
+víkend, konec týdne
+namocit, vlhcit
+vlhký, mokrý
+kdykoli, kdykoliv, vždycky
+jestli, zdali
+od koho, komu
+manželka, žena, chot
+poslední vule, závet
+vítezství, výhra
+zvítezit, vyhrát
+prát si, toužit
+pracovník, pracující
+napsat, psát
+žlutý, žloutkove žlutý
+tvuj, tvé, vaše, váš
+abchazština, abcházština
+Jaderské more, Jadran
+arabský, arabština
+Arktický oceán, Severní ledový oceán
+ekosystém arktický, arktický ekosystém
+arménský, arménština
+Atlantický oceán, Atlantik
+Ázerbájdžánština, Azeri, ázerbájdžánština
+Baskictina, baskictina
+beloruský, beloruština
+bretonský, bretonština
+bulharský, bulharština
+katalánsky, katalánština
+charvátština, chorvatština
+Cesko, Ceská Republik
+dagestán, Dagestán
+dánský, dánština
+Epifanie, Slavnost Zjevení Páne, svátek Trí králu
+estonský, estonština
+francouzský, francouzština
+frísky, fríština
+NDR, Nemecká demokratická republika
+galicijský, galicijština
+recký, rectina
+Héraklés, Hercules
+hindský, hindština
+madarský, madarština
+islandský, islandština
+Man, Ostrov Man
+italský, italcina, italština
+japonský, japonština
+židovství, judaismus
+khmerský, khmerština
+korejský, korejština
+lotyšský, lotyština
+Lichtenštejnsko, Knížectví Lichtenštejn
+makedonský, makedonština
+Fudži, Hora Fudži
+nepálský, nepálština
+Phobos, Fobos
+portugalský, portugalština
+rumunský, rumunština
+ruský, ruština
+slovenský, Slovenština, slovenština
+švédský, švédština
+tamilský, tamilština
+teluguský, telugština
+thajský, thajština
+turecký, turectina
+ukrajinský, ukrajincina, ukrajinština
+Spojené království Velké Británie a Severního Irska, Spojené království
+vietnamský, vietnamština
+wallonský, wallonština
+velšský, velština
+akordeon, harmonika
+dešte kyselé, kyselý déšt
+zemedelské stroje, zemedelské zarízení
+alkalické, prvky skupiny I
+skoro, témer
+a, i, ale
+rostlina krytosemenná, rostlina kvetoucí
+antagonismus, antagonizmus
+jabko, jablko
+Aeronomie, fyzika atmosféry
+aukce, dražba
+násep, breh
+lepší, líp, lépe, lépe
+odbourávání biologické, biodegradace
+region biogeografický, biogeografický region
+analýza biologická, biologická analýza
+monitorování biologické, biologické monitorování
+narození, porod
+hyperonymum, nadrazené výrazy
+klitoris, poštevácek
+svíèka, svícka
+karfiol, kveták
+clánek, Galvanický clánek
+velryba, Cetacea
+geografie ekonomická, ekonomická geografie
+dopad na životní prostredí, vliv na prostredí životní
+fosilie, zkamenelina
+devce, dívka
+hyponymum, podrazené výrazy
+in situ, na míste, in situ
+lucerna, svítilna
+ingvistika, lingvistika, jazykoveda
+kapalina, tekutina
+látka znackovací, znackovací látka
+hromadné sdelovací prostredky, masmédia
+analýza mikrobiologická, mikrobiologická analýza
+Moteto, moteto
+komár, moskyt
+regenerace prirozená, prirozená regenerace
+státní jazyk, úrední jazyk
+strana politická, strana
+panelák, panelový dum
+úrad provincní regionální, úrad provincní, úrad regionální
+financování verejné, verejné financování
+státní prevrat, puc, prevrat
+radio, rozhlas
+látka stopovací radioaktivní, radioaktivní stopovací látka
+backora, pantofle
+samoobsluha, supermarket
+obchod, povolání
+prekládání, překlad
+View lemma information, krocan
+upír, vampýr
+veterinář, zvìrolékař
+samohláska, vokála, vokál
+choroba prenosná ze zvírete na cloveka, zoonóza
