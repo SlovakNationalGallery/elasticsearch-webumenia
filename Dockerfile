@@ -11,8 +11,4 @@ RUN curl -Lso config/lemmagen/en.lem https://github.com/vhyza/lemmagen-lexicons/
 RUN curl -Ls https://github.com/SlovakNationalGallery/elasticsearch-slovencina/archive/master.tar.gz | tar xz -C config --strip-components=1
 
 # grab extra synonym files and save them inside config/synonyms
-RUN curl -Lso config/synonyms/synonyms_cz.txt https://sites.google.com/site/kevinbouge/synonyms-lists/synonyms_cz.txt
 RUN curl -Ls http://wordnetcode.princeton.edu/3.0/WNprolog-3.0.tar.gz | tar xz -C config/synonyms --strip-components=1 prolog/wn_s.pl
-
-# grab extra stop-words files
-RUN curl -Lso config/stop-words/stop-words-czech2.txt https://sites.google.com/site/kevinbouge/stopwords-lists/stopwords_cz.txt
